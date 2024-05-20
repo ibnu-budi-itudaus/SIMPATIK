@@ -1,0 +1,35 @@
+body{
+	background-color: #F8F8FF;	
+}
+
+@media print{
+	.kembali, .garis {
+		display: none;
+	}
+}
+.headoc{
+	padding-left: 0px;
+}
+
+.headoc #head1 {
+	font-family: serif;
+}
+.headoc #head2 {
+	font-family: Helvetica;
+
+}
+.headoc #head3 {
+	font-family: serif;
+
+}
+.headoc p.kecil{
+	line-height: 5px;
+}
+
+.layout{
+	background-color: white;	
+ }
+.judul1{
+	font-family: serif;
+	text-align: center;
+}

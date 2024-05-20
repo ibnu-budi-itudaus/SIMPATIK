@@ -1,0 +1,13 @@
+body{
+	background-color: #F8F8FF;	
+}
+
+table thead{
+	background-color: #ADD8E6;	
+}
+.card .day{
+	/*color: #FF7F50;*/
+}
+.fa-exclamation-circle{
+	color: #F08080;
+}

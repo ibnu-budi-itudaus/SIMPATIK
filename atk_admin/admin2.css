@@ -1,0 +1,79 @@
+
+body{
+	background-color: #F8F8FF;	
+}
+
+.kartu1{
+	padding-top: 10px;
+	padding-left: 13px;
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	border: 1px solid green;
+	float: left;
+	margin: 10px;
+	color: green;
+
+	}
+.kartu2{
+	padding-top: 10px;
+	padding-left: 17px;
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	border: 1px solid green;
+	float: left;
+	margin: 10px;
+	color: green;
+
+	}
+.kartu3{
+	padding-top: 10px;
+	padding-left: 9px;
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	border: 1px solid green;
+	float: left;
+	margin: 10px;
+	color: green;
+
+	}
+	
+.card-body {
+	border-bottom: 4px solid #eee;
+
+	border-right: 2px solid #eee; 
+	border-left: 2px solid #eee; 
+	border-top: 2px solid #eee;
+}
+	
+.breadcrumb {
+	border-bottom: 4px solid #eee;
+
+	border-right: 2px solid #eee; 
+	border-left: 2px solid #eee; 
+	border-top: 2px solid #eee;
+}
+	
+.col-sm-12 .card .card-body .kontenlapor{
+	width: 600px;
+	border-bottom: 2px solid black;
+	margin : auto;
+	padding-bottom: 0px;
+}
+
+.display-4{
+	font-weight: bold;
+}
+
+.card-body-icon{
+	position: absolute;
+	z-index: 0;
+	top: 25px;
+	right: 10px;
+	opacity: 0.4;
+	font-size: 90px;
+
+}
+

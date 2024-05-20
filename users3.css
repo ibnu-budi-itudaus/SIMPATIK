@@ -1,0 +1,66 @@
+
+
+
+
+
+body{
+	background-color: #F8F8FF;	
+}
+
+.kartu1{
+	padding-top: 10px;
+	padding-left: 13px;
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	border: 1px solid green;
+	float: left;
+	margin: 10px;
+	color: green;
+
+	}
+.kartu2{
+	padding-top: 10px;
+	padding-left: 17px;
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	border: 1px solid green;
+	float: left;
+	margin: 10px;
+	color: green;
+
+	}
+.kartu3{
+	padding-top: 10px;
+	padding-left: 9px;
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	border: 1px solid green;
+	float: left;
+	margin: 10px;
+	color: green;
+
+	}
+
+.display-4{
+	font-weight: bold;
+}
+
+.card-body-icon{
+	position: absolute;
+	z-index: 0;
+	top: 25px;
+	right: 10px;
+	opacity: 0.4;
+	font-size: 90px;
+
+}
+.card-body {
+	border-bottom: 3px solid #D3D3D3;
+
+	border-right: 1px solid #D3D3D3; 
+	border-left: 1px solid #D3D3D3; 
+	border-top: 1px solid #D3D3D3;
+}

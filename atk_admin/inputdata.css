@@ -1,0 +1,9 @@
+label{
+	margin-left: 8%;
+}
+.form .form-group input{
+	width: 50%;
+}
+.konten .card .card-body form .form-group .tombol{
+	width: 50px;
+}

@@ -1,0 +1,14 @@
+body{
+	background-color: #ADD8E6;
+}
+/*.container {
+	margin-top : ;
+}*/
+.card{
+	margin-top: 50px;
+
+}
+.card .card-body  p {
+	font-size: 12px;
+	color: #DC143C;
+}
